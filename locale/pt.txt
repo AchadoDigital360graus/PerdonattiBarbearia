@@ -13,7 +13,7 @@ LinkBehaviour_C360E349_DFD3_0F72_41E9_4C5DC1EF76E5.source = https://perdonatti.c
 ## Hotspot
 
 ### Text
-HotspotPanoramaOverlayTextImage_D757477E_E3D7_1714_41B6_3ED724B245C0.text = Av. Saldanha Marinho
+HotspotPanoramaOverlayTextImage_D757477E_E3D7_1714_41B6_3ED724B245C0.text = 2026, Av. Saldanha Marinho
 
 ## Media
 
@@ -22,7 +22,7 @@ audiores_D37BA722_DD5D_372D_41E8_6AB058971536.mp3Url = media/audio_D0C72D82_DD5D
 audiores_D352E39E_DD5D_0F15_41E7_D3F4CCAE1362.mp3Url = media/audio_D26FE87B_DD5D_391C_41EA_A45E2D1107AE_pt.mp3
 
 ### Image
-imlevel_D7372BD7_E3D3_1F14_41C6_96C91B223EAA.url = media/panorama_F627F37F_CB52_37A9_41CA_74B2166C3FF7_HS_4wxcmgkv_pt.png
+imlevel_D56C0B67_E333_7F34_41E0_20E2AF22F907.url = media/panorama_F627F37F_CB52_37A9_41CA_74B2166C3FF7_HS_4wxcmgkv_pt.png
 
 ### Title
 panorama_F627F37F_CB52_37A9_41CA_74B2166C3FF7.label = 360º DRONE PERDONATTI
